@@ -1,10 +1,17 @@
 # João Victor's Student Github
 
+
+[![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVGN&show_icons=true&theme=ocean_dark)](https://https://github.com/JoaoVGN)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVGN&layout=compact&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
 <div align="center">
   <a href="https://github.com/JotaV-0">
   <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=JoaoVGN&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
   <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVGN&layout=compact&langs_count=7&theme=ocean_dark"/>
 </div>
+-->
 
 ##
 ### Main Account:
